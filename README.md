@@ -69,8 +69,14 @@ A spectrum of models, encompassing SARIMA, Random Forest, XGBoost, LightGBM, and
 ### Feature Selection
 The features curated for this purpose included weather variables and lagged values of "Total Accidents".
 
-### Model Training
-Each model was subjected to rigorous training, inclusive of hyperparameter tuning and optimization.
+### Model Training:
+- **Data Splitting:** For this project, 80% of the data was utilized for training and the remaining 20% for testing.
+  
+- **SARIMA:** Leveraging the stationarity and identified seasonality of the series, a Seasonal ARIMA (SARIMA) model was employed. SARIMA models cater to seasonality in time series data.
+  
+- **Machine Learning Models:** Post SARIMA, machine learning models like Random Forest and Gradient Boosting Machines (XGBoost & LightGBM) were explored, using pertinent features and lagged values as predictors.
+  
+- **LSTM Model:** An exploration into Long Short-Term Memory (LSTM) models was also conducted. LSTMs, a subtype of recurrent neural networks (RNNs), are adept at capturing long-term dependencies, making them apt for time series forecasting tasks.
 
 ### Model Evaluation
 Evaluation metrics like MAE, RMSE, and MAPE were employed to appraise the models on their testing set performance.
@@ -98,8 +104,16 @@ The analysis conducted has several limitations, including:
 - **Public Transportation**: The efficiency and utilization of public transportation, which can influence the number of vehicles on the road, were not considered.
 
 ## <a name="future-work"></a>9. Future Work
-### Improvements
-Subsequent iterations might witness refined model optimizations and the inclusion of granular data to enhance insights.
+### Improvements:
+- **Model Enhancement:** Refine models using advanced techniques like Bayesian optimization.
+- **Feature Augmentation:** Explore rolling averages and advanced lag features.
+- **Data Expansion:** Integrate hourly weather conditions and real-time traffic data for richer insights.
+- **Broadened Analysis:** Extend the study to more cities for generalized conclusions.
 
-## <a name="acknowledgments"></a>9. Acknowledgments
+### Extensions:
+- **Additional Factors:** Consider variables like wind speed, humidity, and road conditions.
+- **Advanced Models:** Experiment with deep learning models, such as Transformers, for forecasting.
+- **Real-Time System:** Develop a system for dynamic risk assessment using live weather data, supporting proactive traffic management.
+
+## <a name="acknowledgments"></a>10. Acknowledgments
 Gratitude is extended to the individuals and organizations that have generously provided the datasets and to the open-source communities that have been instrumental in the project's fruition. Additionally, my gratitude to my mentors and peers at WBS Coding School for their continuous support and valuable feedback.
