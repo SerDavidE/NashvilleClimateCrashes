@@ -126,3 +126,10 @@ The analysis conducted has several limitations, including:
 
 ## <a name="acknowledgments"></a>10. Acknowledgments
 Gratitude is extended to the individuals and organizations that have generously provided the datasets and to the open-source communities that have been instrumental in the project's fruition. Additionally, my gratitude to my mentors and peers at WBS Coding School for their continuous support and valuable feedback.
+
+## License
+This project is licensed under Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) - see the [LICENSE.md](https://creativecommons.org/licenses/by-nc-sa/4.0/) file for details.
+
+## Contact
+For any questions, feedback, or discussions, feel free to reach out to me:
+- [LinkedIn](https://www.linkedin.com/in/sergiodavidescobar)
