@@ -12,9 +12,7 @@
 6. [Model Building and Evaluation](#model-building)
 7. [Insights, Conclusions, and Recommendations](#insights)
 8. [Future Work](#future-work)
-9. [References](#references)
-10. [Appendices](#appendices)
-11. [Acknowledgments](#acknowledgments)
+9. [Acknowledgments](#acknowledgments)
 
 ## <a name="introduction"></a>1. Introduction
 ### Objective
