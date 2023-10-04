@@ -67,9 +67,11 @@ The results cemented the presence of significant correlations and seasonal trend
 A spectrum of models, encompassing SARIMA, Random Forest, XGBoost, LightGBM, and LSTM, were chosen due to their versatility in handling multifaceted input features.
 
 ### Feature Selection
-The features curated for this purpose included weather variables and lagged values of "Total Accidents".
+For the machine learning models, the features selected included:
+- Lagged values of the target variable "Total Accidents", considering a weekly seasonality of 7 days.
+- A subset of weather variables that potentially impact accident rates, such as `Temperature(C)`, `Visibility(km)`, and `Wind_Speed(kmh)`.
 
-### Model Training:
+### Model Training
 - **Data Splitting:** For this project, 80% of the data was utilized for training and the remaining 20% for testing.
   
 - **SARIMA:** Leveraging the stationarity and identified seasonality of the series, a Seasonal ARIMA (SARIMA) model was employed. SARIMA models cater to seasonality in time series data.
