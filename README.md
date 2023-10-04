@@ -89,5 +89,5 @@ Recommendations span across proactive weather-based traffic management, predicti
 ### Improvements
 Subsequent iterations might witness refined model optimizations and the inclusion of granular data to enhance insights.
 
-## <a name="acknowledgments"></a>11. Acknowledgments
+## <a name="acknowledgments"></a>9. Acknowledgments
 Gratitude is extended to the individuals and organizations that have generously provided the datasets and to the open-source communities that have been instrumental in the project's fruition. Additionally, my gratitude to my mentors and peers at WBS Coding School for their continuous support and valuable feedback.
