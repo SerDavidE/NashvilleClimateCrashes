@@ -1,6 +1,8 @@
 
 ![copy_banner_5](https://github.com/SerDavidE/NashvilleClimateCrashes/assets/138124275/b455389e-172d-4fcb-b457-1edcdcd90882)
 
+> **Note**: This README provides a summarized overview of the project. For a comprehensive analysis, detailed methodology, and in-depth discussions, please refer to the [accompanying research paper](link_to_pdf_in_your_repository).
+
 ## Analyzing Climate's Role in Accidents in Nashville, U.S.A.
 
 ## Table of Contents
@@ -11,8 +13,9 @@
 5. [Statistical Tests](#statistical-tests)
 6. [Model Building and Evaluation](#model-building)
 7. [Insights, Conclusions, and Recommendations](#insights)
-8. [Future Work](#future-work)
-9. [Acknowledgments](#acknowledgments)
+8. [Limitations](#limitations)
+9. [Future Work](#future-work)
+10. [Acknowledgments](#acknowledgments)
 
 ## <a name="introduction"></a>1. Introduction
 ### Objective
@@ -85,7 +88,16 @@ The expedition through the dataset culminated in the realization that weather co
 ### Recommendations
 Recommendations span across proactive weather-based traffic management, predictive interventions, raising public awareness, and infrastructural enhancements to ensure safety.
 
-## <a name="future-work"></a>8. Future Work
+## <a name="limitations"></a>8. Limitations
+The analysis conducted has several limitations, including:
+- **Tourism Impact**: Seasonal tourism influxes, which can increase traffic, were not considered.
+- **Road Maintenance**: Ongoing constructions and the general road conditions, which can affect accident rates, were not included.
+- **Traffic Congestion**: Factors such as traffic density and rush hour patterns were not explored.
+- **Driving Behavior**: Local driving habits and issues like driving under influence were not investigated.
+- **Vehicle Types**: The variety of vehicles on the roads was not analyzed.
+- **Public Transportation**: The efficiency and utilization of public transportation, which can influence the number of vehicles on the road, were not considered.
+
+## <a name="future-work"></a>9. Future Work
 ### Improvements
 Subsequent iterations might witness refined model optimizations and the inclusion of granular data to enhance insights.
 
