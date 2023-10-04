@@ -95,10 +95,10 @@ A comprehensive juxtaposition was conducted, shedding light on each model's apti
 
 ## <a name="insights"></a>7. Insights, Conclusions, and Recommendations
 ### Insights
-The analysis delineated the profound impact of weather conditions on traffic accidents, emphasizing the significance of these meteorological facets.
+The analysis highlighted a distinct impact of weather conditions on traffic accidents, emphasizing the importance of these meteorological factors.
 
 ### Conclusions
-The expedition through the dataset culminated in the realization that weather conditions, notably in Nashville, are pivotal determinants in traffic accidents' incidence. Gradient boosting models like LightGBM showcased superior performance, emphasizing the judicious selection of models based on the dataset's inherent characteristics.
+The journey through the dataset led to the understanding that weather conditions, especially in Nashville, have a tangible relationship with the frequency of traffic accidents. Gradient boosting models like LightGBM showcased superior performance, highlighting the importance of choosing the right model for the specific nature of the dataset.
 
 ### Recommendations
 Recommendations span across proactive weather-based traffic management, predictive interventions, raising public awareness, and infrastructural enhancements to ensure safety.
