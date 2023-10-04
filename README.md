@@ -56,8 +56,8 @@ This entailed the decomposition of accident data to shed light on trends, season
 
 ### Visual Highlights
 <img width="422" alt="images_5" src="https://github.com/SerDavidE/NashvilleClimateCrashes/assets/138124275/9eedac52-e39c-4dee-9a6f-6dce9d252dcf">
-<img width="284" alt="Images_1" src="https://github.com/SerDavidE/NashvilleClimateCrashes/assets/138124275/5e03f955-3e84-4e5b-bb05-c86a09085a56">
 <img width="339" alt="images_15" src="https://github.com/SerDavidE/NashvilleClimateCrashes/assets/138124275/fa4d9a35-8b40-482a-97fb-fd82bf750cb6">
+<img width="284" alt="Images_1" src="https://github.com/SerDavidE/NashvilleClimateCrashes/assets/138124275/5e03f955-3e84-4e5b-bb05-c86a09085a56">
 <img width="354" alt="images_3" src="https://github.com/SerDavidE/NashvilleClimateCrashes/assets/138124275/0fd099c1-e86a-4822-a55c-46d605a449ab">
 
 ## <a name="statistical-tests"></a>5. Statistical Tests
@@ -87,6 +87,7 @@ For the machine learning models, the features selected included:
 
 ### Model Evaluation
 Evaluation metrics like MAE, RMSE, and MAPE were employed to appraise the models on their testing set performance.
+<img width="356" alt="images_11" src="https://github.com/SerDavidE/NashvilleClimateCrashes/assets/138124275/75227b17-fa53-4813-bea7-9b193f126892">
 
 ### Model Comparison
 A comprehensive juxtaposition was conducted, shedding light on each model's aptitude and predictive capabilities.
