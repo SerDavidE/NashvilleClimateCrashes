@@ -45,6 +45,7 @@ This phase was earmarked by addressing missing values, outliers, and undertaking
 The transformations employed revolved around adept feature engineering, which involved spawning lagged values of the pivotal target variable and scaling the data to meet model prerequisites.
 
 ### Visual Highlights
+<img width="422" alt="images_5" src="https://github.com/SerDavidE/NashvilleClimateCrashes/assets/138124275/9eedac52-e39c-4dee-9a6f-6dce9d252dcf">
 <img width="284" alt="Images_1" src="https://github.com/SerDavidE/NashvilleClimateCrashes/assets/138124275/5e03f955-3e84-4e5b-bb05-c86a09085a56">
 <img width="339" alt="images_15" src="https://github.com/SerDavidE/NashvilleClimateCrashes/assets/138124275/fa4d9a35-8b40-482a-97fb-fd82bf750cb6">
 <img width="354" alt="images_3" src="https://github.com/SerDavidE/NashvilleClimateCrashes/assets/138124275/0fd099c1-e86a-4822-a55c-46d605a449ab">
