@@ -1,6 +1,6 @@
 ![copy_banner_0](https://github.com/SerDavidE/NashvilleClimateCrashes/assets/138124275/e69bfd63-9e05-455d-bc19-527c7d65b308)
 
-> **Note**: This README provides a summarized overview of the project. For a comprehensive analysis, detailed methodology, and in-depth discussions, please refer to the [accompanying research paper](link_to_pdf_in_your_repository).
+> **Note**: This README provides a summarized overview of the project. For a comprehensive analysis, detailed methodology, and in-depth discussions, please refer to the [accompanying research paper](link_to_pdf_).
 
 ## Analyzing Climate's Role in Accidents in Nashville, U.S.A.
 
