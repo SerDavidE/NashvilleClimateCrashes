@@ -87,6 +87,7 @@ For the machine learning models, the features selected included:
 
 ### Model Evaluation
 Evaluation metrics like MAE, RMSE, and MAPE were employed to appraise the models on their testing set performance.
+
 <img width="356" alt="images_11" src="https://github.com/SerDavidE/NashvilleClimateCrashes/assets/138124275/75227b17-fa53-4813-bea7-9b193f126892">
 
 ### Model Comparison
